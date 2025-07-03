@@ -1,12 +1,13 @@
 👨‍💻  About Me
 
-🚀 I'm on a journey to become a Full Stack Web Developer. Currently, I'm focusing on:
+🔧 What I Do
+🌐 Build responsive websites using HTML, CSS, Tailwind, React
 
-💻 Frontend: React.js, Tailwind CSS
+🔙 Work on backend with Node.js, Express, MongoDB
 
-🛠️ Backend: Node.js, Express.js, MongoDB
+🔐 Implement secure user login systems using Firebase
 
-🔐 Authentication: Firebase
+🚀 Deploy apps to Vercel or Netlify
 
 🌐 Deployment: Netlify, Vercel
 ## 🌐 Socials:
