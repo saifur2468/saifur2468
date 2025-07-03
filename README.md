@@ -1,5 +1,4 @@
-👨‍💻 #About Me
-Hi there! 👋 I'm Md Saifur Rahman, a passionate and self-motivated tech enthusiast currently studying Computer Science & Engineering at Borak Polytechnic Institute. I love building web applications and exploring new technologies that solve real-world problems.
+👨‍💻 # About Me
 
 🚀 I'm on a journey to become a Full Stack Web Developer. Currently, I'm focusing on:
 
@@ -32,7 +31,7 @@ Hi there! 👋 I'm Md Saifur Rahman, a passionate and self-motivated tech enthus
 ---
 [![](https://visitcount.itsvg.in/api?id=saifur2468&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## Hi there 👋
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!--
 **saifur2468/saifur2468** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
