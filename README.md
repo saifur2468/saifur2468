@@ -1,4 +1,15 @@
+👨‍💻 #About Me
+Hi there! 👋 I'm Md Saifur Rahman, a passionate and self-motivated tech enthusiast currently studying Computer Science & Engineering at Borak Polytechnic Institute. I love building web applications and exploring new technologies that solve real-world problems.
 
+🚀 I'm on a journey to become a Full Stack Web Developer. Currently, I'm focusing on:
+
+💻 Frontend: React.js, Tailwind CSS
+
+🛠️ Backend: Node.js, Express.js, MongoDB
+
+🔐 Authentication: Firebase
+
+🌐 Deployment: Netlify, Vercel
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/saifur2460) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/7H.SAIFURSAIF) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/saif.ur31) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mdislamshakib218@gmail.com ) 
 
