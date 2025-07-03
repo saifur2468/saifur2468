@@ -1,4 +1,4 @@
-👨‍💻 # About Me
+👨‍💻  About Me
 
 🚀 I'm on a journey to become a Full Stack Web Developer. Currently, I'm focusing on:
 
