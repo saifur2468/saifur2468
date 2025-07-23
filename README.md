@@ -9,7 +9,8 @@
 🔐 Implement secure user login systems using Firebase
 
 🚀 Deploy apps to Vercel or Netlify
-![Banner}(https://postimg.cc/TKbyV3vZ)]
+
+https://i.postimg.cc/nhRvtXRc/1.png
 
 🌐 Deployment: Netlify, Vercel
 ## 🌐 Socials:
