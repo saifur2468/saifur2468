@@ -1,6 +1,11 @@
-### Hi there 👋, my name is  Saifur Rahman 
-#### Full Stack Developer | MERN Stack | Backend Enthusiast
+
+
 ![Full Stack Developer | MERN Stack | Backend Enthusiast](https://i.postimg.cc/k5VL6Qzc/github-header-banner.png)
+### 👋 Hi, I'm Saifur Rahman 
+# Full Stack Developer | MERN Stack | Backend Enthusiast
+🚀 Front-End Developer | UI Enthusiast | Tech Explorer
+I'm a passionate developer who crafts beautiful, responsive web experiences with clean code. Currently pursuing Computer Science while building real-world projects.
+
 
 
 # 💫 About Me:
