@@ -2,8 +2,15 @@
 #### Full Stack Developer | MERN Stack | Backend Enthusiast
 ![Full Stack Developer | MERN Stack | Backend Enthusiast](https://i.postimg.cc/k5VL6Qzc/github-header-banner.png)
 
+
 # 💫 About Me:
-🔭 I’m currently working on Building full stack web applications using MERN stack and working on real-world academic projects like attendance systems and booking platforms.<br>🌱 I’m currently learning Advanced Backend Development, API design, JWT Authentication, and exploring System Design concepts.<br>👯 I’m looking to collaborate on Open-source projects, MERN stack applications, and innovative web-based solutions.<br>🤔 I’m looking for help with Scaling backend systems, performance optimization, and real-world production best practices.<br>💬 Ask me about React, Node.js, MongoDB, REST APIs, and full stack project development<br>📫 How to reach me: Email: saifdevweb@gmail.com GitHub: https://github.com/saifur2468<br>⚡ Fun fact: I love turning complex problems into simple, scalable solutions and enjoy debugging more than coding
+🔭 I’m currently working on Building full stack web applications using MERN stack and working on real-world academic projects like attendance systems and booking platforms.<br>
+🌱 I’m currently learning Advanced Backend Development, API design, JWT Authentication, and exploring System Design concepts.<br>
+👯 I’m looking to collaborate on Open-source projects, MERN stack applications, and innovative web-based solutions.<br>
+🤔 I’m looking for help with Scaling backend systems, performance optimization, and real-world production best practices.<br>
+💬 Ask me about React, Node.js, MongoDB, REST APIs, and full stack project development<br>
+📫 How to reach me: Email: saifdevweb@gmail.com GitHub: https://github.com/saifur2468<br>
+⚡ Fun fact: I love turning complex problems into simple, scalable solutions and enjoy debugging more than coding
 
 
 ## 🌐 Socials:
