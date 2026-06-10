@@ -1,6 +1,6 @@
 
 
-![Full Stack Developer | MERN Stack | Backend Enthusiast](https://i.postimg.cc/k5VL6Qzc/github-header-banner.png)
+![Full Stack Developer | MERN Stack | Backend Enthusiast](https://i.postimg.cc/hhRjHYpv/Purple-Blue-Simple-Professional-Marketing-Professional-Linked-In-Article-Cover-Image(1).png)
 ### 👋 Hi, I'm Saifur Rahman 
 # Full Stack Developer | MERN Stack | Backend Enthusiast
 🚀 Front-End Developer | UI Enthusiast | Tech Explorer
