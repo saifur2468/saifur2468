@@ -1,22 +1,25 @@
 ![Full Stack Developer | MERN Stack | Backend Enthusiast](https://i.postimg.cc/hhRjHYpv/Purple-Blue-Simple-Professional-Marketing-Professional-Linked-In-Article-Cover-Image(1).png)
 
-### 👋 Hi, I'm Saifur Rahman
+# Hi 👋, I'm Saifur Rahman
 
-# Full Stack Developer | MERN Stack | Backend Enthusiast
-🚀 **Front-End Developer | UI Enthusiast | Tech Explorer**
+### Full-Stack Web Developer | Interested in Software Engineering
 
-I'm a passionate developer who crafts beautiful, responsive web experiences with clean code. Currently pursuing Computer Science while building real-world projects.
+- 👋 Hi, I'm Saifur Rahman.
+- 💻 I'm currently working with React.js, Next.js, TypeScript, and Tailwind CSS for frontend development.
+- ⚙️ Using Node.js, Express.js, PostgreSQL, Prisma ORM, and MongoDB for backend development.
+- 🌱 I'm currently learning Docker, AWS, and AI-powered application development.
+- 🔭 I'm interested in building modern, scalable, and user-friendly web applications.
+- 💬 Ask me about Full-Stack Web Development (React, Next.js, Node.js, Express.js, PostgreSQL, Prisma).
+- 🌐 Explore my [Portfolio] (https://elegant-pie-73f88d.netlify.app/) and [GitHub Projects](https://github.com/saifur2468).
+- 📫 Feel free to reach out via email: **saifdevweb@gmail.com**
 
----
+### 💻 Tech Stack
+JavaScript • TypeScript • React.js • Next.js • Node.js • Express.js • PostgreSQL • Prisma ORM • MongoDB • Tailwind CSS • Git • GitHub
 
-# 💫 About Me
-* 🔭 **Currently working on:** Building full-stack web applications using the MERN stack and working on real-world academic projects like attendance systems and booking platforms.
-* 🌱 **Currently learning:** Advanced Backend Development, API design, JWT Authentication, and exploring System Design concepts.
-* 👯 **Looking to collaborate on:** Open-source projects, MERN stack applications, and innovative web-based solutions.
-* 🤔 **Looking for help with:** Scaling backend systems, performance optimization, and real-world production best practices.
-* 💬 **Ask me about:** React, Node.js, MongoDB, REST APIs, and full-stack project development.
-* 📫 **How to reach me:** Email: [saifdevweb@gmail.com](mailto:saifdevweb@gmail.com) | GitHub: [github.com/saifur2468](https://github.com/saifur2468)
-* ⚡ **Fun fact:** I love turning complex problems into simple, scalable solutions and enjoy debugging more than coding!
+### 🤝 Connect with Me
+- GitHub: [@saifur2468](https://github.com/saifur2468)
+- Email: saifdevweb@gmail.com
+
 
 ---
 
