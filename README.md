@@ -9,7 +9,7 @@
 - 🌱 I'm currently learning Docker, AWS, and AI-powered application development.
 - 🔭 I'm interested in building modern, scalable, and user-friendly web applications.
 - 💬 Ask me about Full-Stack Web Development (React, Next.js, Node.js, Express.js, PostgreSQL, Prisma).
-- 🌐 Explore my [Portfolio] (https://elegant-pie-73f88d.netlify.app/) and [GitHub Projects](https://github.com/saifur2468).
+- 🌐 Explore my [Portfolio](https://elegant-pie-73f88d.netlify.app/) and [GitHub Projects](https://github.com/saifur2468).
 - 📫 Feel free to reach out via email: **saifdevweb@gmail.com**
 ---
 
