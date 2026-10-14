@@ -65,9 +65,30 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ---
+## 📊 GitHub Statistics
 
-📊 **My GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saifur2468&show_icons=true&theme=radial&count_private=true" alt="Saifur's GitHub Stats" />
-  <img src="https://github-readme-stroke-dasharray.vercel.app/api/top-langs/?username=saifur2468&layout=compact&theme=radial" alt="Top Languages" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=saifur2468&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="GitHub Stats"
+  />
 </p>
+
+## 💻 Most Used Languages
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=saifur2468&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Most Used Languages"
+  />
+</p>
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=saifur2468&theme=tokyonight&hide_border=true"
+    alt="GitHub Contribution Streak"
+  />
+</p>
+
