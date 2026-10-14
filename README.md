@@ -2,9 +2,8 @@
 
 # Hi 👋, I'm Saifur Rahman
 
-### Full-Stack Web Developer | Interested in Software Engineering
+### Full-Stack  Developer | Interested in Software Engineering
 
-- 👋 Hi, I'm Saifur Rahman.
 - 💻 I'm currently working with React.js, Next.js, TypeScript, and Tailwind CSS for frontend development.
 - ⚙️ Using Node.js, Express.js, PostgreSQL, Prisma ORM, and MongoDB for backend development.
 - 🌱 I'm currently learning Docker, AWS, and AI-powered application development.
@@ -12,15 +11,6 @@
 - 💬 Ask me about Full-Stack Web Development (React, Next.js, Node.js, Express.js, PostgreSQL, Prisma).
 - 🌐 Explore my [Portfolio] (https://elegant-pie-73f88d.netlify.app/) and [GitHub Projects](https://github.com/saifur2468).
 - 📫 Feel free to reach out via email: **saifdevweb@gmail.com**
-
-### 💻 Tech Stack
-JavaScript • TypeScript • React.js • Next.js • Node.js • Express.js • PostgreSQL • Prisma ORM • MongoDB • Tailwind CSS • Git • GitHub
-
-### 🤝 Connect with Me
-- GitHub: [@saifur2468](https://github.com/saifur2468)
-- Email: saifdevweb@gmail.com
-
-
 ---
 
 ## 🌐 Socials
