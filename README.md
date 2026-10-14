@@ -1,4 +1,4 @@
-![Full Stack Developer | MERN Stack | Backend Enthusiast](https://i.postimg.cc/hhRjHYpv/Purple-Blue-Simple-Professional-Marketing-Professional-Linked-In-Article-Cover-Image(1).png)
+![Full Stack Developer | MERN Stack | Backend Enthusiast](https://i.postimg.cc/h46Yz95g/Purple-Blue-Simple-Professional-Marketing-Professional-Linked-In-Article-Cover-Image.png)
 
 # Hi 👋, I'm Saifur Rahman
 
